@@ -1,0 +1,27 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "my 1st game",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKGP/tetris.git"
+  },
+  "keywords": [
+    "tetris"
+  ],
+  "author": "Ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKGP/tetris/issues"
+  },
+  "homepage": "https://github.com/AKGP/tetris#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
